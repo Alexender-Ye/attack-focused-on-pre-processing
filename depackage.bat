@@ -1,0 +1,1 @@
+apktool d "F:\temp_application\temp\Worlds of Fun_v7.206.0_apkpure.com.apk"
